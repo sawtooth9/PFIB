@@ -1,7 +1,6 @@
 
 
 # Starting Portfolio
-#IRM #PYPL
 
 ## Current Holdings
 
@@ -12,9 +11,9 @@
 ### IRM: Iron Mountain Inc.
 
 Company Overview:
-- description
-- Industry tags
-- how do they make money
+* Description
+* Industry tags
+* how they make money
 
 Reasons I own
 1. Growth of the data center
