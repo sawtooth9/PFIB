@@ -1,5 +1,3 @@
-# Starting Portfolio
-#IRM #PYPL
 - - - -
 title: “The Starting Portfolio”
 description: "Awesome description"
@@ -10,6 +8,9 @@ hide: false
 search_exclude: false
 categories: [IRM, PYPL]
 - - - -
+
+# Starting Portfolio
+#IRM #PYPL
 
 ## Current Holdings
 
