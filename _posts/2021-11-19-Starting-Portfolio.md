@@ -1,13 +1,4 @@
-- - - -
-title: “The Starting Portfolio”
-description: "Awesome description"
-layout: post
-toc: false
-comments: true
-hide: false
-search_exclude: false
-categories: [IRM, PYPL]
-- - - -
+
 
 # Starting Portfolio
 #IRM #PYPL
