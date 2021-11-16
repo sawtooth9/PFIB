@@ -1,6 +1,7 @@
 
 
 # Starting Portfolio
+#IRM #PYPL
 
 ## Current Holdings
 
@@ -8,9 +9,9 @@
 * PYPL - X%
 
 
-### IRM: Iron Mountain Inc.
+### IRM Iron Mountain Inc.
 
-Company Overview:
+Company Overview
 * Description
 * Industry tags
 * how they make money
